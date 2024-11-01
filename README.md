@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Arfaj sheru</h1>
-<h3 align="center">"Hello! I'm a passionate and detail-oriented full-stack developer with a deep love for exploring the world of modern web development. From front-end to back-end, I bring a complete skill set that helps me build user-friendly, responsive, and high-performance websites and web applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arfajsheru&label=Profile%20views&color=0e75b6&style=flat" alt="arfajsheru" /> </p>
 
@@ -7,9 +6,7 @@
 
 - 🌱 I’m currently learning **Express, next.js, node.js, mongoose, React**
 
-- 👯 I’m looking to collaborate on [Forza zone](https://forza-zone.vercel.app/)
-
-- 🤝 I’m looking for help with [Tic-Toc-Toe](https://tic-tac-toe-chi-plum-71.vercel.app/)
+- 💬 Ask me about **"Hello! I'm a passionate and detail-oriented full-stack developer with a deep love for exploring the world of modern web development. From front-end to back-end, I bring a complete skill set that helps me build user-friendly, responsive, and high-performance websites and web applications.**
 
 - 📫 How to reach me **arfajsheru74@gmail.com**
 
